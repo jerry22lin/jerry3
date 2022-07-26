@@ -13,7 +13,7 @@
         `</field></block></statement><value name="IF2"><block type="logic_compare" id="0MZmDw=)`3OL67jb7Jp-"><field name="OP">EQ</field><value name="A"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="variables_get" id=";$+?Q?}NUlI}J7Ct6H=7"><field name="VAR" id="7KI?y4^Yy1U#XxO4;?c_">點數</field></block></value><value name="B"><shadow type="math_number" id="}wsT.!2al:FHE]%}53`T"><field name="NUM">3</field></shadow></value></block></value><statement name="DO2"><block type="device_show_leds" id="h]^?/NO:{w,.t5-T^aQh"><field name="LEDS">`
         . . . . . 
         . . . . . 
-        # . # . # 
+        . # # # . 
         . . . . . 
         . . . . .
         `</field></block></statement><value name="IF3"><block type="logic_compare" id="0AEhcG#qpcnGP)m6nc;m"><field name="OP">EQ</field><value name="A"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="variables_get" id="I9/`pL_8|uN^ZuTfYbVg"><field name="VAR" id="7KI?y4^Yy1U#XxO4;?c_">點數</field></block></value><value name="B"><shadow type="math_number" id="1;_E!Jz1CEG}g9u1%#wB"><field name="NUM">4</field></shadow></value></block></value><statement name="DO3"><block type="device_show_leds" id=":z*m7]LaRf%=|qF;EQ.a"><field name="LEDS">`
