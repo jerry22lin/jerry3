@@ -1,6 +1,8 @@
 let 點數 = 0
 input.onGesture(Gesture.Shake, function () {
     點數 = randint(1, 6)
+})
+basic.forever(function () {
     if (點數 == 1) {
         basic.showLeds(`
             . . . . .
@@ -50,7 +52,4 @@ input.onGesture(Gesture.Shake, function () {
             . . . . .
             `)
     }
-})
-basic.forever(function () {
-	
 })
