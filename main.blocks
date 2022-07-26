@@ -29,9 +29,9 @@
         . # . # . 
         . . . . .
         `</field></block></statement><statement name="ELSE"><block type="device_show_leds" id="djW,2Sc0Ww)YMuR-N`YN"><field name="LEDS">`
-        # . . . # 
         . . . . . 
-        # . . . # 
-        . . . . . 
-        # . . . #
+        . # . # . 
+        . # . # . 
+        . # . # . 
+        . . . . .
         `</field></block></statement></block></next></block></statement></block></xml>

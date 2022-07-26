@@ -43,11 +43,11 @@ input.onGesture(Gesture.Shake, function () {
             `)
     } else {
         basic.showLeds(`
-            # . . . #
             . . . . .
-            # . . . #
+            . # . # .
+            . # . # .
+            . # . # .
             . . . . .
-            # . . . #
             `)
     }
 })
